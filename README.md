@@ -1,4 +1,3 @@
--English
 🦷 Dental Clinic - Patient Management System in C++
 
 This project simulates the basic operation of a dental clinic using data structures in C++. It allows for patient registration, assigning priorities, attending clients, and calculating the dentist's salary based on the treated cases.
@@ -50,7 +49,7 @@ Several custom data structures are implemented:
 
 To compile the program, make sure to include all relevant .cpp files:
 
-g++ main.cpp List.cpp QueueList.cpp StackList.cpp Secretaria.cpp -o clinic.exe
+g++ main.cpp List.cpp QueueList.cpp StackList.cpp Secretaria.cpp -o clinic.exe QueueList.cpp StackList.cpp Secretaria.cpp -o clinic.exe
 
 -Español
 # 🦷 Clínica Odontológica - Sistema de Gestión de Pacientes en C++
