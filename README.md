@@ -49,7 +49,7 @@ Several custom data structures are implemented:
 
 To compile the program, make sure to include all relevant .cpp files:
 
-g++ main.cpp List.cpp QueueList.cpp StackList.cpp Secretaria.cpp -o clinic.exe QueueList.cpp StackList.cpp Secretaria.cpp -o clinic.exe
+g++ main.cpp List.cpp QueueList.cpp StackList.cpp Secretaria.cpp -o clinic.exe
 
 -Español
 # 🦷 Clínica Odontológica - Sistema de Gestión de Pacientes en C++
